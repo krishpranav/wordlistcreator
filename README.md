@@ -8,4 +8,4 @@ This is a simple python tool for creating random wordlists
 - python3 dependencies.py
 - python3 wordlistcreate.py
 
-TOOL IS CREATED BY KRISNA PRANAv
+TOOL IS CREATED BY KRISNA PRANAV
